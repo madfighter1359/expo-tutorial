@@ -31,6 +31,12 @@
         "projectId": "d3f2e1a0-d8b2-4898-a0cc-fb5059809dc5"
       }
     },
-    "owner": "prupru"
+    "owner": "prupru",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d3f2e1a0-d8b2-4898-a0cc-fb5059809dc5"
+    }
   }
 }
